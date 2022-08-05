@@ -5,5 +5,5 @@ function findOddSum(array) {
         console.log(i);
     }
 }
-
-findOddSum();
+let givenArray = [5, 7, 8, 10, 45, 30];
+findOddSum(givenArray);
